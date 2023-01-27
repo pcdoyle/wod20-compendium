@@ -1,0 +1,33 @@
+{
+    "name": "wod20-compendium-1.0.0",
+    "title": "WoD20-Compendium",
+    "id": "wod20-compendium-1.0.0",
+    "description": "A module containing the exported WoD20-Compendium compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "compatibility": {
+        "minimum": 10,
+        "verified": 10,
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "SeaSaltSong",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "packs": [
+        {
+            "type": "Item",
+            "label": "V20.Compendium",
+            "module": "wod20-compendium-1.0.0",
+            "path": "packs/atlanta-by-night-v20compendium-1674442642732.db",
+            "name": "atlanta-by-night-v20compendium-1674442642732",
+            "system": "worldofdarkness"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+}
