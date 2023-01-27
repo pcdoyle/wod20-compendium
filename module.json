@@ -1,8 +1,8 @@
 {
-  "id": "wod20-compendium",
-  "title": "WoD v20 Compendium",
-  "description": "A module containing a compendium for WoD v20.",
-  "version": "1.0.3",
+  "id": "wod20-compendiums",
+  "title": "WoD 20 Compendiums",
+  "description": "A module containing compendiums for WoD 20.",
+  "version": "1.0.4",
   "library": "false",
   "compatibility": {
     "minimum": 10,
@@ -18,11 +18,10 @@
   ],
   "packs": [
     {
+      "label": "Kindred - WoD20",
+      "name": "v20compendium-kindred",
+      "path": "./packs/v20compendium-kindred.db",
       "type": "Item",
-      "label": "WoD V20 Compendium",
-      "module": "wod20-compendium",
-      "path": "./packs/wodv20compendium.db",
-      "name": "wod20-compendium",
       "system": "worldofdarkness"
     }
   ],
@@ -40,8 +39,8 @@
       }
     ]
   },
-  "url": "https://github.com/pcdoyle/wod20-compendium",
-  "manifest": "https://raw.githubusercontent.com/pcdoyle/wod20-compendium/main/module.json",
-  "download": "https://github.com/pcdoyle/wod20-compendium/releases/download/v1.0.3/module.zip",
-  "bugs": "https://github.com/pcdoyle/wod20-compendium/issues"
+  "url": "https://github.com/pcdoyle/wod20-compendiums",
+  "manifest": "https://raw.githubusercontent.com/pcdoyle/wod20-compendiums/main/module.json",
+  "download": "https://github.com/pcdoyle/wod20-compendiums/releases/download/v1.0.4/module.zip",
+  "bugs": "https://github.com/pcdoyle/wod20-compendiums/issues"
 }
