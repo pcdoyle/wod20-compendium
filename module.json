@@ -15,7 +15,7 @@
         {
             "name": "SeaSaltSong",
             "email": "",
-            "url": ""
+            "url": "https://github.com/SeaSaltSong"
         }
     ],
     "packs": [
@@ -28,6 +28,8 @@
             "system": "worldofdarkness"
         }
     ],
-    "manifest": "",
-    "download": ""
+    "url": "https://github.com/pcdoyle/wod20-compendium",
+    "manifest": "https://github.com/pcdoyle/wod20-compendium/releases/download/1.0.0/module.json",
+    "download": "https://github.com/pcdoyle/wod20-compendium/releases/download/1.0.0/module.zip",
+    "bugs": "https://github.com/pcdoyle/wod20-compendium/issues"
 }

@@ -1,2 +1,13 @@
 # macOS Files
 .DS_Store
+
+# VSCode
+.vscode/
+.history/
+
+# Compressed Files
+*.tgz
+*.zip
+*.tar.gz
+*.tar
+*.gz
