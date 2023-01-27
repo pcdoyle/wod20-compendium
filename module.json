@@ -1,11 +1,11 @@
 {
-    "name": "wod20-compendium-1.0.0",
-    "title": "WoD20-Compendium",
-    "id": "wod20-compendium-1.0.0",
+    "name": "wod20-compendium",
+    "title": "WoD v20 Compendium",
+    "id": "wod20-compendium",
     "description": "A module containing the exported WoD20-Compendium compendium.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "library": "false",
-    "manifestPlusVersion": "1.0.0",
+    "manifestPlusVersion": "1.0.1",
     "compatibility": {
         "minimum": 10,
         "verified": 10,
@@ -22,14 +22,14 @@
         {
             "type": "Item",
             "label": "V20.Compendium",
-            "module": "wod20-compendium-1.0.0",
+            "module": "wod20-compendium",
             "path": "packs/atlanta-by-night-v20compendium-1674442642732.db",
             "name": "atlanta-by-night-v20compendium-1674442642732",
             "system": "worldofdarkness"
         }
     ],
     "url": "https://github.com/pcdoyle/wod20-compendium",
-    "manifest": "https://github.com/pcdoyle/wod20-compendium/releases/download/1.0.0/module.json",
-    "download": "https://github.com/pcdoyle/wod20-compendium/releases/download/1.0.0/module.zip",
+    "manifest": "https://github.com/pcdoyle/wod20-compendium/releases/download/v1.0.1/module.json",
+    "download": "https://github.com/pcdoyle/wod20-compendium/releases/download/v1.0.1/module.zip",
     "bugs": "https://github.com/pcdoyle/wod20-compendium/issues"
 }
